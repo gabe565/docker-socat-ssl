@@ -1,0 +1,8 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "local>gabe565/renovate-config",
+    ":automergeAll"
+  ],
+  "forkProcessing": "enabled"
+}
